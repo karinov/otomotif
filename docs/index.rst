@@ -50,3 +50,4 @@ Tech News Online
 `Portal modifikasi otomotif <https://www.blackxperience.com/blackauto/automods>`_ dan teknologi terkini di Indonesia. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
 
 - `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
+- `alexa on rftd <https://alexa.readthedocs.io/en/latest/>`_
