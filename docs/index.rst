@@ -6,11 +6,12 @@
 Contoh Dokumen Github
 ==================   
    
-   Contents:
+Indices and tables
+==================
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
 Situs Modifikasi Otomotif Mobil & Motor Indonesia
 ==================
