@@ -1,6 +1,7 @@
 Template
 ========
-
+https://github.com/karinov/direktori/
+- `Direktori Service Center Indonesia <https://www.autobild.co.id>`_
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
@@ -41,7 +42,7 @@ License
 The project is licensed under the BSD license.
 
 - https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
+- https://www.navi.id - forum pariwisata indonesia
 - https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
 - https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
 - https://www.m-edukasi.web.id - portal bisnis online dan umkm
