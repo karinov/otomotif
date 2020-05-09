@@ -6,7 +6,7 @@
 Contoh Dokumen Github
 ==================   
 
-[https://otomotifid.readthedocs.io/en/latest/](https://otomotifid.readthedocs.io/en/latest/)
+https://otomotifid.readthedocs.io/en/latest/
    
 Indices and tables
 ==================
